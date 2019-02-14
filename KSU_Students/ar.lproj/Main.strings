@@ -1,0 +1,93 @@
+
+/* Class = "UILabel"; text = "From"; ObjectID = "0Ri-R5-NuP"; */
+"0Ri-R5-NuP.text" = "From";
+
+/* Class = "UIButton"; normalTitle = "transactions test"; ObjectID = "1Ab-hQ-bGq"; */
+"1Ab-hQ-bGq.normalTitle" = "transactions test";
+
+/* Class = "UIButton"; normalTitle = "cancel"; ObjectID = "3v6-xZ-Ex3"; */
+"3v6-xZ-Ex3.normalTitle" = "cancel";
+
+/* Class = "UIButton"; normalTitle = "Loans"; ObjectID = "5YX-XF-ow9"; */
+"5YX-XF-ow9.normalTitle" = "Loans";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9NY-ep-hmv"; */
+"9NY-ep-hmv.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Forget Password"; ObjectID = "DzT-WV-nZ0"; */
+"DzT-WV-nZ0.normalTitle" = "Forget Password";
+
+/* Class = "UIButton"; normalTitle = "Profile"; ObjectID = "GDL-t0-4Dk"; */
+"GDL-t0-4Dk.normalTitle" = "Profile";
+
+/* Class = "UIButton"; normalTitle = "change"; ObjectID = "M9V-Uw-ZDV"; */
+"M9V-Uw-ZDV.normalTitle" = "change";
+
+/* Class = "UIButton"; normalTitle = "Result"; ObjectID = "NQn-fq-SP2"; */
+"NQn-fq-SP2.normalTitle" = "Result";
+
+/* Class = "UISegmentedControl"; RaF-wY-G0f.segmentTitles[0] = "Taken"; ObjectID = "RaF-wY-G0f"; */
+"RaF-wY-G0f.segmentTitles[0]" = "Taken";
+
+/* Class = "UISegmentedControl"; RaF-wY-G0f.segmentTitles[1] = "Not taken"; ObjectID = "RaF-wY-G0f"; */
+"RaF-wY-G0f.segmentTitles[1]" = "Not taken";
+
+/* Class = "UIButton"; normalTitle = "plan"; ObjectID = "Sdy-zY-Axl"; */
+"Sdy-zY-Axl.normalTitle" = "plan";
+
+/* Class = "UIButton"; normalTitle = "Calendar"; ObjectID = "W1S-Gj-41O"; */
+"W1S-Gj-41O.normalTitle" = "Calendar";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "XVj-Mx-Gvx"; */
+"XVj-Mx-Gvx.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "bOX-nc-q0b"; */
+"bOX-nc-q0b.text" = "--";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bcj-wX-l8f"; */
+"bcj-wX-l8f.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "dLr-AJ-K6j"; */
+"dLr-AJ-K6j.text" = "--";
+
+/* Class = "UISegmentedControl"; eb3-iP-8G9.segmentTitles[0] = "Saturday"; ObjectID = "eb3-iP-8G9"; */
+"eb3-iP-8G9.segmentTitles[0]" = "Saturday";
+
+/* Class = "UISegmentedControl"; eb3-iP-8G9.segmentTitles[1] = "Sunday"; ObjectID = "eb3-iP-8G9"; */
+"eb3-iP-8G9.segmentTitles[1]" = "Sunday";
+
+/* Class = "UISegmentedControl"; eb3-iP-8G9.segmentTitles[2] = "Monday"; ObjectID = "eb3-iP-8G9"; */
+"eb3-iP-8G9.segmentTitles[2]" = "Monday";
+
+/* Class = "UISegmentedControl"; eb3-iP-8G9.segmentTitles[3] = "Tuesday"; ObjectID = "eb3-iP-8G9"; */
+"eb3-iP-8G9.segmentTitles[3]" = "Tuesday";
+
+/* Class = "UISegmentedControl"; eb3-iP-8G9.segmentTitles[4] = "Wednesday"; ObjectID = "eb3-iP-8G9"; */
+"eb3-iP-8G9.segmentTitles[4]" = "Wednesday";
+
+/* Class = "UIButton"; normalTitle = "Books"; ObjectID = "fR9-qh-PVh"; */
+"fR9-qh-PVh.normalTitle" = "Books";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gOh-M2-oiA"; */
+"gOh-M2-oiA.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "From"; ObjectID = "ggm-2S-d5e"; */
+"ggm-2S-d5e.text" = "From";
+
+/* Class = "UILabel"; text = "to"; ObjectID = "kfo-Lf-DQg"; */
+"kfo-Lf-DQg.text" = "to";
+
+/* Class = "UIButton"; normalTitle = "Schedule"; ObjectID = "ksN-J7-hvx"; */
+"ksN-J7-hvx.normalTitle" = "Schedule";
+
+/* Class = "UIButton"; normalTitle = "Rewards"; ObjectID = "mA2-aC-SQ9"; */
+"mA2-aC-SQ9.normalTitle" = "Rewards";
+
+/* Class = "UIButton"; normalTitle = "Records"; ObjectID = "olq-Pk-UAS"; */
+"olq-Pk-UAS.normalTitle" = "Records";
+
+/* Class = "UILabel"; text = "--/--/--"; ObjectID = "rae-Gy-nvQ"; */
+"rae-Gy-nvQ.text" = "--/--/--";
+
+/* Class = "UILabel"; text = "to"; ObjectID = "rvC-lf-Ktf"; */
+"rvC-lf-Ktf.text" = "to";

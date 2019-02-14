@@ -1,0 +1,191 @@
+/* 
+  Localizable.strings
+  KSU_Students
+
+  Created by EJ-Mac book on 7/20/15.
+  Copyright (c; 2015 E-Jawdah. All rights reserved.
+*/
+///////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////login////////////////////////////////////////////////
+usernameLblText                    ="  Username";
+passwordLblText                    ="  Password";
+forgetPWLblText                    ="Forget Password";
+loginLblText                       ="Login";
+userNameMandatoryMsg               ="Enter correct username/ password";
+passwordMandatoryMsg               ="Enter correct username/ password";
+FingerPrintLblText                 ="Use Fingerprint";
+FingerPrintErrorText               ="You have to login with username & password Please.";
+///////////////////////////////////Language///////////////////////////////////////////
+currentLangText                     ="Application language";
+changeLangMsgText                   ="Do you want to change application language?";
+changeLangDoneMsgText               ="Change Language done successfully";
+/////////////////////////////forget password/////////////////////////////////////////////
+NationalityIdMandtoryMsg            ="Enter nationality ID";
+forgetPWDoneMsg                     ="Your password has been sent to your mobile";
+userNameMandatoryFPMsg              ="Enter correct username";
+forgetPWVerifyText                  ="Verification Code";
+verificationSendingMsg              ="Verification code sent to your mobile";
+verifyCodeMandatoryFPMsg            ="Enter verification code";
+
+VerifyButtonText                    ="Verify";
+SendButtonText                      ="Send";
+nationalityIDText                   ="  Nationality ID";
+
+pleaseFillFWDataMsg                 ="Please enter the required data";
+pleaseFillFWCodeMsg                 ="Please enter verification code";
+//////////////////////////////profile///////////////////////////////////////////////
+profileTelNoText                    ="Telephone No";
+profileStudentIdText                ="Student Id";
+profileFacultyText                  ="Faculty";
+profileMajorText                    ="Major";
+profileDegreeText                   ="Degree";
+profileEmailText                    ="Email";
+profileStatusText                   ="Status";
+profileNationalIdText               ="National Id";
+profileNationalityText              ="Nationality";
+profileTitleText                    ="Student Info";
+//////////////////////////////////Rewards////////////////////////////////////////
+rewardsTitleText                    ="Rewards";
+rewardsDetailsText                  ="Details";
+rewardsDateText                     ="Date";
+rewardsAmountText                   ="Amount";
+//////////////////////////////////Transcations////////////////////////////////////////
+transactionTitleText                ="Academic Transactions";
+transactionDetailsText              ="Details";
+transactionStatusText               ="Status";
+transactionClassNameText            ="Class Name";
+////////////////////////////////Loans/////////////////////////////////////////////
+loansTitleText                      ="Loans";
+loansAmountText                     ="Amount";
+loansTypeText                       ="Type";
+loansClassYearText                  ="Class Year";
+////////////////////////////////Schedule////////////////////////////////////////////
+scheduleTitleText                   ="Schedule";
+scheduleSaturdayText                ="Sat";
+scheduleSundayText                  ="Sun";
+scheduleMondayText                  ="Mon";
+scheduleTuesdayText                 ="Tues";
+scheduleWednesdayText               ="Wedn";
+scheduleThursdayText                ="Thurs";
+scheduleCourseCodeText              ="Course code:";
+scheduleClassBuildingText           ="Building:";
+scheduleClassPartitionText          ="Partition:";
+scheduleClassFloorText              ="Floor:";
+scheduleClassRoomText               ="Room:";
+scheduleClassInstractorText         ="Instractor:";
+scheduleStartTimeText               ="From:";
+scheduleEndTimeText                 ="To:";
+scheduleSemesterText                =" Current Semester:";
+scheduleSectionIDText               ="Section No:";
+WeeklyScheduleTextID                ="Weekly Schedule";
+ScheduleOthersTextID                ="Others";
+////////////////////////////////Plan////////////////////////////////////////////////
+planTitleText                       ="Student Plan";
+planCoursesTakenText                ="Taken Courses";
+planCoursesWillTakeText             ="Not Taken Courses";
+planCoursesCurrentSemesterText      ="Current";
+////////////////////////////////Result////////////////////////////////////////////////
+resultTitleText                     ="Results";
+resultSemesterText                  ="Semester";
+resultCumGradeText                  ="Cumulated Grade";
+resultSemesterGradeText             ="Semester Grade";
+resultCourseText                    ="Course";
+resultCourseGradeText               ="Grade";
+////////////////////////////////Record////////////////////////////////////////////////
+recordTitleText                     ="Academic Records";
+recordAttemptedHrsText              ="Attempted Hours";
+recordSemesterGPAText               ="Semester Grade";
+recordCumGPAText                   ="Cumulated Grade";
+////////////////////////////////Menu//////////////////////////////////////////////////
+MenuTitleText                       ="Menu";
+MenuHomeText                        ="Home";
+MenuChangePWText                    ="Change password";
+MenuLangText                        ="اللغة العربية";
+MenuAboutText                       ="About";
+MenuSignoutText                     ="Logout";
+///////////////////////////////////books////////////////////////////////////////////
+bookScreenTitle                     ="Library";
+bookBorrowedDateTitle               ="Borrowing Date";
+bookBorrowedNoDataMSG               ="You don't have any borrowing books";
+/////////////////////////////////////Calender////////////////////////////////////////////////
+CalenderTitleText                   ="Calendar";
+DateFromText                        ="Gregorian";
+DateToText                          ="Hijri";
+//////////////////////////////////home///////////////////////////////////////////
+homeTitleText                       ="E-Services For Students";
+//////////////////////////////////About/////////////////////////////////////////
+aboutTxtMsg                         ="King Saud University Students e-Services \n\rUniversity’s Deanship of e-Transaction & Communication and Deanship of Registration offering many  valued services for student. The service offered in order to fulfill e-services goals. And, also, deliver those services within easy interactive way, and awesome user experience. We released university’s smartphone application for students. \n\r\n\rApplication Services:\n\r-Ability to see the student's academic record and details for each semester.\n\r-Ability to see the student's rewards.\n\r-Ability to see the student's loans.\n\r- Ability to see the student's requests\n\r";
+/////////////////////////////////Change password////////////////////////////////////////////////
+ChPwTitleText                       ="Change Password";
+ChPwOldPwText                       ="Old password";
+ChPwNewPwText                       ="New password";
+ChPwConfirmPWText                   ="Confirm new password";
+VerifyButtonText                    ="Verify";
+passwordMandatoryChMsg              ="Enter old password";
+newPWMandatoryMsg                   ="Enter new password";
+confirmPWMandatoryMsg               ="Enter confirm new password";
+confirmPW_notMatchMsg               ="Confirm new password doesn't match";
+confirmOldPWMatchMsg                ="New password must differ from old password";
+ChangePWDoneMsgText                 ="Password changed successfully";
+PWminLenghtMsgText                  ="Password must be more than 6 characters";
+//////////////////////////////////calendar JSON/////////////////////////////////
+calStartFirst                       ="Beginning of the first semester";
+calNationalDay                      ="The National day holiday";
+calStartAdah                        ="Eid Al-Adha holiday";
+calEndAdah                          ="Beginning of the school year after Eid Al-Adha holiday";
+calFirstExam                        ="First semester exams";
+calStartMidVaca                     ="Beginning of the mid-year vacation";
+calStartSecond                      ="Beginning of the second semester";
+calStartSecondMidVaca               ="Beginning of the second midterm vacation";
+calEndSecondMidVaca                 ="Beginning of the school year after the second midterm vacation";
+calSecondExam                       ="Second semester exams";
+calStartFinalVaca                   ="End of school year vacation";
+calStartYear                        ="Beginning of the school year";
+calStartFirstMidVaca                ="Beginning of the first midterm vacation";
+calEndFirstMidVaca                  ="Beginning of the school year after the first midterm vacation";
+
+calLastAppology                     ="The deadline to apologize for the classroom and/or a course";
+calStartPrepareSubjects             ="Prep. subjects' exams start date";
+calEndPrepareSubjects               ="Prep. subjects' exams end date";
+calStartTeachersVaca                ="Begin of the educational staff vacation";
+calEndTeachersVaca                  ="Educational staff resume date";
+
+calStartSummarCourse                ="Summer semester registration";
+calStartStudy                       ="The beginning of study";
+calStartFatrEidVaca                 ="Eid Al-Fitr holiday";
+calEndFatrEidVaca                   ="Classes resume";
+calStartExam                        ="Beginning of final exams";
+calEndExam                          ="End of final exams";
+
+calStartFirstNew                    ="Beginning of the study for the first semester";
+calStartSecondNew                   ="Beginning of the study for the second semester";
+calLastAppologyYearly               ="The deadline to apologize for the classroom and/or a course(yearly)";
+
+//////////////////////////////////General////////////////////////////////////////
+ApplicationTitleText                ="King Saud University";
+OKayButtonText                      ="OK";
+CancelButtonText                    ="Cancel";
+DoneButtonText                      ="Done";
+AllFieldsAreRequiredMessage         ="All Fields are required";
+WrongMailFormatMessage              ="Invalid email address format";
+SaveButtonText                      ="Save";
+DeleteButtonText                    ="Delete";
+ErrorGeneralTitle                   ="Error";
+NoCameraMessage                     ="Device has no camera";
+NoDataFoundMsg                      ="No data found";
+DATA_NOT_AVAILABLE                  = "Data not Avaiable";
+ACCESS_DENIED                       = "Login with new account currently denied";
+ServerErrorMsg                      ="Server Error";
+UPDATE                              = "Update";
+FORCE_UPDATE                        = "Newer version is Available, Kindly Update App to Continue";
+StudentNotRegist                    = "Student not registered to a semester, please review with Dean of Acceptance and Registration";
+//////////////////////////////////QR Reader////////////////////////////////////////
+AttendanceTitleText                 ="Attendance";
+QRLoadingMsg                        ="You have to load QR first";
+QRInvalidMsg                        ="Invalid Code";
+QRExpiredMsg                        ="Attendence Registration Closed";
+QRAddedMsg                          ="Previously Registered";
+QRSuccessMsg                        ="Attendence Registered";
+RetakeButtonText                    ="Remove QR";
+RetryButtonText                     ="Retry";
+

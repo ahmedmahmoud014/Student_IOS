@@ -1,0 +1,194 @@
+/* 
+  Localizable.strings
+  KSU_Students
+
+  Created by EJ-Mac book on 7/20/15.
+  Copyright (c) 2015 E-Jawdah. All rights reserved.
+*/
+///////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////login////////////////////////////////////////////////
+usernameLblText                    ="  اسم المستخدم";
+passwordLblText                    ="  كلمة المرور";
+forgetPWLblText                    ="نسيت كلمة المرور";
+loginLblText                       ="تسجيل الدخول";
+userNameMandatoryMsg               ="ادخل اسم المستخدم / كلمة المرور  صحيحة";
+passwordMandatoryMsg               ="ادخل اسم المستخدم / كلمة المرور  صحيحة";
+FingerPrintLblText                  ="تفعيل البصمة";
+FingerPrintErrorText                ="من فضلك ادخل اسم المستخدم و كلمة المرور.";
+///////////////////////////////////Language///////////////////////////////////////////
+currentLangText                     ="لغة التطبيق";
+changeLangMsgText                   ="هل تريد تغيير لغة التطبيق؟";
+changeLangDoneMsgText               ="تم تغيير لغة التطبيق بنجاح";
+
+/////////////////////////////forget password/////////////////////////////////////////////
+NationalityIdMandtoryMsg            ="الرجاء إدخال رقم الهوية";
+forgetPWDoneMsg                     ="تم ارسال كلمة المرور الخاصة بك علي هاتفك الجوال";
+userNameMandatoryFPMsg              ="ادخل اسم المستخدم صحيح";
+forgetPWVerifyText                  ="كود التحقق";
+verificationSendingMsg              ="تم إرسال كود التحقق علي جوالك";
+verifyCodeMandatoryFPMsg            ="ادخل كود التحقق";
+
+VerifyButtonText                    ="تحقق";
+SendButtonText                      ="إرسال";
+nationalityIDText                   ="  رقم الهوية أو البطاقة";
+
+pleaseFillFWDataMsg                 ="الرجاء إدخال البيانات الأتية";
+pleaseFillFWCodeMsg                 ="الرجاء إدخال كود التحقق";
+//////////////////////////////profile///////////////////////////////////////////////
+profileTelNoText                    ="رقم الجوال";
+profileStudentIdText                ="رقم الطالب";
+profileFacultyText                  ="الكلية";
+profileMajorText                    ="التخصص";
+profileDegreeText                   ="الدرجة العلمية";
+profileEmailText                    ="البريد الإلكتروني";
+profileStatusText                   ="الحالة";
+profileNationalIdText               ="رقم الهوية";
+profileNationalityText              ="الجنسية";
+profileTitleText                    ="معلومات الطالب";
+//////////////////////////////////Rewards////////////////////////////////////////
+rewardsTitleText                    ="المكافآت";
+rewardsDetailsText                  ="التفاصيل";
+rewardsDateText                     ="التاريخ";
+rewardsAmountText                   ="المبلغ";
+//////////////////////////////////Transcations////////////////////////////////////////
+transactionTitleText                ="الحركات الأكاديمية";
+transactionDetailsText              ="وصف الحركة";
+transactionStatusText               ="الحالة";
+transactionClassNameText            ="الفصل";
+////////////////////////////////Loans/////////////////////////////////////////////
+loansTitleText                      ="السلف و الإعانات";
+loansAmountText                     ="المبلغ";
+loansTypeText                       ="النوع";
+loansClassYearText                  ="فصل الاستفادة";
+////////////////////////////////Schedule////////////////////////////////////////////
+scheduleTitleText                   ="الجدول الدراسي";
+scheduleSaturdayText                ="السبت";
+scheduleSundayText                  ="الأحد";
+scheduleMondayText                  ="الأثنين";
+scheduleTuesdayText                 ="الثلاثاء";
+scheduleWednesdayText               ="الإربعاء";
+scheduleThursdayText                ="الخميس";
+scheduleCourseCodeText              ="رمز المقرر:";
+scheduleClassBuildingText           ="المبنى:";
+scheduleClassPartitionText          ="الجناح:";
+scheduleClassFloorText              ="الدور:";
+scheduleClassRoomText               ="القاعة:";
+scheduleClassInstractorText         ="المحاضر:";
+scheduleStartTimeText               ="من:";
+scheduleEndTimeText                 ="إلى:";
+scheduleSemesterText                =" الفصل الدراسي:";
+scheduleSectionIDText               ="رقم الشعبة:";
+WeeklyScheduleTextID                ="الجدول الأسبوعي";
+ScheduleOthersTextID                ="أخرى";
+////////////////////////////////Plan////////////////////////////////////////////////
+planTitleText                       ="خطة الطالب";
+planCoursesTakenText                ="مقررات دُرِسَت";
+planCoursesWillTakeText             ="مقررات لم تُدرس";
+planCoursesCurrentSemesterText      ="حالية";
+////////////////////////////////Result////////////////////////////////////////////////
+resultTitleText                     ="الدرجات";//"نتيجة الطالب";
+resultSemesterText                  ="الفصل الدراسي";
+resultCumGradeText                  ="المعدل التراكمي";
+resultSemesterGradeText             ="المعدل الفصلي";
+resultCourseText                    ="المقرر";
+resultCourseGradeText               ="التقدير";
+////////////////////////////////Record////////////////////////////////////////////////
+recordTitleText                     ="السجل الأكاديمي";
+recordAttemptedHrsText              ="عدد الساعات";
+recordSemesterGPAText               ="المعدل الفصلي";
+recordCumGPAText                   ="المعدل التراكمي:";
+////////////////////////////////Menu//////////////////////////////////////////////////
+MenuTitleText                       ="القائمة";
+MenuHomeText                        ="الرئيسية";
+MenuChangePWText                    ="تعديل كلمة المرور";
+MenuLangText                        ="English";
+MenuAboutText                       ="عن التطبيق";
+MenuSignoutText                     ="تسجيل خروج";
+///////////////////////////////////books////////////////////////////////////////////
+bookScreenTitle                     ="المكتبة";
+bookBorrowedDateTitle               ="تاريخ الإستعارة";
+bookBorrowedNoDataMSG               ="لا توجد لديك كتب مستعارة";
+/////////////////////////////////////Calender////////////////////////////////////////////////
+CalenderTitleText                   ="التقويم الجامعي";
+DateFromText                        ="هجري";
+DateToText                          ="ميلادي";
+//////////////////////////////////home///////////////////////////////////////////
+homeTitleText                       ="الخدمات الإلكترونية للطلاب و الطالبات";
+//////////////////////////////////About//////////////////////////////////////////
+aboutTxtMsg                         =" الخدمات الإلكترونية لطلاب وطالبات جامعة الملك سعود\n\r توفر جامعة الملك سعود ممثلة عمادة القبول والتسجيل و عمادة التعاملات الإلكترونية و الاتصالات الكثير من الخدمات القيمة للطلاب.\n\rولذا رغبة لتحقيق أهداف هذه الخدمات الإلكترونية بشكل تفاعلي و جذاب للمستخدم و بشكل متنقل في الأجهزة المحمولة الذكية، فقد تم إطلاق برنامج خدمات طلاب جامعة الملك سعود.\n\rخدمات التطبيق:\n\r- إمكانية رؤية السجل الأكاديمي ومتابعة تفاصيل درجات الطالب حسب كل فصل.\n\r- إمكانية رؤية مكافئات الطالب وتاريخها.\n\r- إمكانية رؤية سلفة وإعانات الطالب.\n\r- إمكانية رؤية الحركة الأكاديمية للطالب.\n\r- إمكانية رؤية الجدول الدراسي للطالب.\n\r- إمكانية رؤية التقويم الجامعي.\n\r- إمكانية رؤية الحركات الأكاديمية.\n\r- إمكانية رؤية خطة الطالب والمعدل الفصلي و التراكمي للطالب.\n\r";
+/////////////////////////////////Change password////////////////////////////////////////////////
+ChPwTitleText                       ="تعديل كلمة المرور";
+ChPwOldPwText                       ="كلمة المرور القديمة";
+ChPwNewPwText                       ="كلمة المرور الجديدة";
+ChPwConfirmPWText                   ="تأكيد كلمة المرور الجديدة";
+VerifyButtonText                    ="تحقق";
+passwordMandatoryChMsg              ="ادخل كلمة المرور القديمة";
+newPWMandatoryMsg                   ="ادخل كلمة المرور الجديدة";
+confirmPWMandatoryMsg               ="ادخل تأكيد كلمة المرور الجديدة";
+confirmPW_notMatchMsg               ="تأكيد كلمة المرور الجديدة غير متطابقة";
+confirmOldPWMatchMsg                ="كلمة المرور الجديدة يجب ان تختلف عن القديمة";
+ChangePWDoneMsgText                 ="تم تعديل كلمة المرور بنجاح";
+PWminLenghtMsgText                  ="الحد الادني لكلمة المرور 6 حروف";
+//////////////////////////////////calendar JSON/////////////////////////////////
+calStartFirst                       ="بداية الدراسة للفصل الدراسي الأول";
+calNationalDay                      ="أجازة اليوم الوطني";
+calStartAdah                        ="بداية أجازة عيد الأضحى";
+calEndAdah                          ="بداية الدراسة بعد أجازة عيد الأضحى";
+calFirstExam                        ="بداية اختبار الفصل الدراسي الأول";
+calStartMidVaca                     ="بداية أجازة منتصف العام";
+calStartSecond                      ="بداية الدراسة للفصل الدراسي الثاني";
+calStartSecondMidVaca               ="بداية أجازة منتصف الفصل الدراسي الثاني";
+calEndSecondMidVaca                 ="بداية الدراسة بعد أجازة منتصف الفصل الدراسي الثاني";
+calSecondExam                       ="بداية اختبارات الفصل الدراسي الثاني";
+calStartFinalVaca                   ="بداية أجازة نهاية العام";
+calStartYear                        ="بداية العام الدراسي";
+calStartFirstMidVaca                ="بداية أجازة منتصف الفصل الدراسي الأول";
+calEndFirstMidVaca                  ="بداية الدراسة بعد أجازة منتصف الفصل الدراسي الأول";
+
+calLastAppology                     ="آخر موعد للاعتذار عن الفصل الدراسي وعن مقرر";
+calStartPrepareSubjects             ="بداية اختبارات مواد الاعداد العام";
+calEndPrepareSubjects               ="نهاية اختبارات مواد الاعداد العام";
+calStartTeachersVaca                ="بداية أجازة أعضاء هيئة التدريس";
+calEndTeachersVaca                  ="عودة أعضاء هيئة التدريس";
+
+calStartSummarCourse                ="بداية التهيئة والتسجيل للفصل الصيفي";
+calStartStudy                       ="بداية الدراسة";
+calStartFatrEidVaca                 ="بداية أجازة عيد الفطر المبارك";
+calEndFatrEidVaca                   ="بداية الدراسة بعد أجازة عيد الفطر المبارك";
+calStartExam                        ="بداية الاختبارات النهائية";
+calEndExam                          ="نهاية الاختبارات النهائية";
+
+calStartFirstNew                    ="بداية الدراسة والتهيئة للفصل الدراسي الأول";
+calStartSecondNew                   ="بداية الدراسة والتهيئة للفصل الثاني";
+calLastAppologyYearly               ="آخر موعد للاعتذار عن الفصل الدراسي وعن مقرر(سنوي)";
+
+
+//////////////////////////////////General////////////////////////////////////////
+ApplicationTitleText                ="جامعة الملك سعود";
+OKayButtonText                      ="موافق";
+CancelButtonText                    ="إلغاء";
+DoneButtonText                      ="موافق";
+AllFieldsAreRequiredMessage         ="كل الحقول مطلوبة";
+WrongMailFormatMessage              ="صيغة البريد الاليكتروني غير صحيحة";
+SaveButtonText                      ="حفظ";
+DeleteButtonText                    ="مسح";
+ErrorGeneralTitle                   = "خطأ";
+NoCameraMessage                     ="هذا الجهاز لا يحتوي علي كاميرا";
+NoDataFoundMsg                      ="لا توجد بيانات";
+DATA_NOT_AVAILABLE                  = "البيانات غير متوفرة";
+ACCESS_DENIED                       = "تسجيل الدخول بحساب جديد غير مسموح الآن";
+ServerErrorMsg                      ="يوجد مشكلة بالخادم";
+UPDATE                              = "تحديث";
+FORCE_UPDATE                        = "يوجد تحديث للتطبيق٫ فضلا قم بالتحديث للمتابعة";
+StudentNotRegist                    = "لست مسجل لك فصل دراسي رجاءً مراجعة عمادة القبول والتسجيل";
+//////////////////////////////////QR Reader////////////////////////////////////////
+AttendanceTitleText                 ="حاضر";
+QRLoadingMsg                        ="يجب تحميل الكود اولا";
+QRInvalidMsg                        ="هذا الكود غير مدرج";
+QRExpiredMsg                        ="تم إغلاق تسجيل";
+QRAddedMsg                          ="حضورك سبق تسجيله";
+QRSuccessMsg                        ="تم تسجيل الحضور";
+RetakeButtonText                    ="تفريغ";
+RetryButtonText                     ="اعد المحاولة";
+
+
