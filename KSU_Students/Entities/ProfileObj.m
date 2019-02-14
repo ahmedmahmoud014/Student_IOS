@@ -9,8 +9,6 @@
 #import "ProfileObj.h"
 #import "AppDelegate.h"
 
-
-
 @implementation ProfileObj
 @synthesize username;
 @synthesize password;
